@@ -1,0 +1,48 @@
+,ID,Category
+0,erythrocyte-1-1,Pronormoblast
+1,erythrocyte-2-1,Basophilic erythroblast
+2,erythrocyte-3-1,Polychromatic erythroblast
+3,erythrocyte-3-2-1,Polychromatic nregaloblast
+4,erythrocyte-4-1,Metarubricyte
+5,erythrocyte-4-2-2,Multinucleated metarubricyte
+6,erythrocyte-6-1,Erythrocyte
+7,erythrocyte-6-2-10,Stomatocyte
+8,erythrocyte-6-2-20,Schistocyte
+9,erythrocyte-6-2-6,Dacrocyte
+10,erythrocyte-6-2-8,Elliptocyte
+11,erythrocyte-6-2-9,Codocyte
+12,erythrocyte-6-4-4,Mitotic erythroblast
+13,granulocyte-1-1,Normal myeloblast
+14,granulocyte-2-1,Normal promyelocyte
+15,granulocyte-2-2-0,Pathological promyelocyte
+16,granulocyte-3-1,Normal neutrophilic myelocyte
+17,granulocyte-4-1,Normal neutrophilic metamyelocyte
+18,granulocyte-5-1,Normal neutrophilic band cell
+19,granulocyte-6-1,Normal segmented neutrophil
+20,granulocyte-7-1,Eosinophilic myelocyte
+21,granulocyte-7-2,Eosinophilic metamyelocyte
+22,granulocyte-7-3,Eosinophilic band cell
+23,granulocyte-7-4,Segmented eosinophil
+24,granulocyte-8-1,Basophilic myelocyte
+25,granulocyte-8-2,Basophilic metamyelocyte
+26,granulocyte-8-3,Basophilic band cell
+27,granulocyte-8-4,Segmented basophil
+28,lymphocyte-1-1,Normal prolymphocyte
+29,lymphocyte-2,Immature lymphocyte
+30,lymphocyte-3-1,Mature lymphocyte
+31,megakaryocyte-1-1,Megakaryoblast
+32,megakaryocyte-1-2,Immature megakaryocyte
+33,megakaryocyte-1-3,Granular megakaryocyte
+34,megakaryocyte-1-4,Platelet-producing megakaryocyte
+35,megakaryocyte-1-5,Naked Nucleus megakaryocyte
+36,monocyte-1,Monoblast
+37,monocyte-2,Immature monocyte
+38,monocyte-3,Mature monocyte
+39,othercells-2,Other cells
+40,plasmacells-1,Plasmablast
+41,plasmacells-2,Immature plasma cell
+42,plasmacells-3,Mature plasma cell
+43,plasmacells-4-5,Binucleated mature plasma cell
+44,platelet-1-1,Normal single platelet
+45,platelet-1-2,Normal dispersed platelet
+46,platelet-1-5,Normal platelet aggregation

@@ -1,0 +1,361 @@
+{'loss_shape': 3.165031909942627, 'loss_nucleus': 3.787017822265625, 'loss_chromatin': 3.568042516708374, 'loss_cytoplasm': 3.4425809383392334, 'loss_ratio': 3.165727138519287}
+{'loss_shape': 0.6321367621421814, 'loss_nucleus': 1.137812614440918, 'loss_chromatin': 2.158409006369766e-05, 'loss_cytoplasm': 1.041283369064331, 'loss_ratio': 2.7939631763729267e-06}
+{'loss_shape': 0.951480507850647, 'loss_nucleus': 1.2141408920288086, 'loss_chromatin': 1.2069930335201207e-06, 'loss_cytoplasm': 1.0751692056655884, 'loss_ratio': 1.4901159772762185e-07}
+{'loss_shape': 1.3425636291503906, 'loss_nucleus': 1.4702138900756836, 'loss_chromatin': 5.513428504855256e-07, 'loss_cytoplasm': 1.3146568536758423, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.9694727659225464, 'loss_nucleus': 1.4588322639465332, 'loss_chromatin': 3.278254894212296e-07, 'loss_cytoplasm': 1.4570053815841675, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.933881402015686, 'loss_nucleus': 1.6646485328674316, 'loss_chromatin': 1.7881392011531716e-07, 'loss_cytoplasm': 1.5098212957382202, 'loss_ratio': 0.0}
+{'loss_shape': 0.6154975295066833, 'loss_nucleus': 0.792831301689148, 'loss_chromatin': 1.4901159772762185e-07, 'loss_cytoplasm': 0.7424148917198181, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.5228559970855713, 'loss_nucleus': 0.7204347848892212, 'loss_chromatin': 1.341104365337742e-07, 'loss_cytoplasm': 0.6347164511680603, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.8837960362434387, 'loss_nucleus': 1.5842167139053345, 'loss_chromatin': 1.7881390590446244e-07, 'loss_cytoplasm': 1.4535892009735107, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.8229894042015076, 'loss_nucleus': 1.049370527267456, 'loss_chromatin': 1.5646217832454568e-07, 'loss_cytoplasm': 1.0645830631256104, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.7861425280570984, 'loss_nucleus': 0.8942791223526001, 'loss_chromatin': 1.341104365337742e-07, 'loss_cytoplasm': 0.8607198596000671, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.7218047380447388, 'loss_nucleus': 0.749218761920929, 'loss_chromatin': 1.341104365337742e-07, 'loss_cytoplasm': 0.7012869119644165, 'loss_ratio': 2.9802320611338473e-08}
+shape acc: 0.7837104201316833
+nucleus acc: 0.7357466220855713
+chromatin acc: 1.0
+cytoplasm acc: 0.7316741943359375
+ratio acc: 1.0
+Average acc: 0.8502262234687805
+{'loss_shape': 0.8625931739807129, 'loss_nucleus': 0.8550699949264526, 'loss_chromatin': 1.4901159772762185e-07, 'loss_cytoplasm': 0.7856375575065613, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.7104499340057373, 'loss_nucleus': 0.9422957301139832, 'loss_chromatin': 1.0430812125150624e-07, 'loss_cytoplasm': 0.6353132128715515, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.536970317363739, 'loss_nucleus': 0.6891969442367554, 'loss_chromatin': 8.940696005765858e-08, 'loss_cytoplasm': 0.6944452524185181, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.5917786359786987, 'loss_nucleus': 1.2374933958053589, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 1.2803657054901123, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.7482671141624451, 'loss_nucleus': 0.7950755953788757, 'loss_chromatin': 9.685754065458241e-08, 'loss_cytoplasm': 0.6704527139663696, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.6071090698242188, 'loss_nucleus': 1.0768070220947266, 'loss_chromatin': 8.940696005765858e-08, 'loss_cytoplasm': 1.1434776782989502, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.8605114817619324, 'loss_nucleus': 1.1596518754959106, 'loss_chromatin': 1.0430812125150624e-07, 'loss_cytoplasm': 1.1550838947296143, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.9123993515968323, 'loss_nucleus': 0.8119281530380249, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.814090371131897, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.595016360282898, 'loss_nucleus': 0.7722727656364441, 'loss_chromatin': 8.195637946073475e-08, 'loss_cytoplasm': 0.7289487719535828, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.43274733424186707, 'loss_nucleus': 0.5900078415870667, 'loss_chromatin': 8.940696005765858e-08, 'loss_cytoplasm': 0.5954160094261169, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.5851066708564758, 'loss_nucleus': 0.8972396850585938, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.8730507493019104, 'loss_ratio': 5.215406062575312e-08}
+{'loss_shape': 0.14512020349502563, 'loss_nucleus': 0.2378861904144287, 'loss_chromatin': 8.195637946073475e-08, 'loss_cytoplasm': 0.18882110714912415, 'loss_ratio': 2.9802320611338473e-08}
+shape acc: 0.810859739780426
+nucleus acc: 0.763348400592804
+chromatin acc: 1.0
+cytoplasm acc: 0.7624434232711792
+ratio acc: 1.0
+Average acc: 0.8673303723335266
+{'loss_shape': 0.8091060519218445, 'loss_nucleus': 0.8543676733970642, 'loss_chromatin': 8.195637946073475e-08, 'loss_cytoplasm': 0.7378233671188354, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.6416797041893005, 'loss_nucleus': 0.7078069448471069, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.6617935299873352, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.9903801083564758, 'loss_nucleus': 1.0730592012405396, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.9830469489097595, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 1.2718976736068726, 'loss_nucleus': 1.4958019256591797, 'loss_chromatin': 3.501767196212313e-07, 'loss_cytoplasm': 1.303397297859192, 'loss_ratio': 8.940693874137651e-08}
+{'loss_shape': 0.6898127794265747, 'loss_nucleus': 0.8070311546325684, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.7922806739807129, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.9775983691215515, 'loss_nucleus': 0.9826928377151489, 'loss_chromatin': 8.940696005765858e-08, 'loss_cytoplasm': 0.9943246245384216, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.857380211353302, 'loss_nucleus': 1.0181845426559448, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.9457100629806519, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.777640163898468, 'loss_nucleus': 0.9597700238227844, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.9120752811431885, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.6087623834609985, 'loss_nucleus': 1.1627951860427856, 'loss_chromatin': 9.685754065458241e-08, 'loss_cytoplasm': 0.895129919052124, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.73374342918396, 'loss_nucleus': 0.811030387878418, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.6541439294815063, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.7181978821754456, 'loss_nucleus': 0.8127685189247131, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.7470309138298035, 'loss_ratio': 0.0}
+{'loss_shape': 0.5363538861274719, 'loss_nucleus': 0.7140533328056335, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.6707943677902222, 'loss_ratio': 2.9802320611338473e-08}
+shape acc: 0.810859739780426
+nucleus acc: 0.7764706015586853
+chromatin acc: 1.0
+cytoplasm acc: 0.7638009190559387
+ratio acc: 1.0
+Average acc: 0.8702263236045837
+{'loss_shape': 1.0156768560409546, 'loss_nucleus': 1.3337281942367554, 'loss_chromatin': 8.940696005765858e-08, 'loss_cytoplasm': 1.2659286260604858, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.763931393623352, 'loss_nucleus': 1.0391064882278442, 'loss_chromatin': 8.195637946073475e-08, 'loss_cytoplasm': 1.0023975372314453, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.33423447608947754, 'loss_nucleus': 0.37446293234825134, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.41186171770095825, 'loss_ratio': 5.215406062575312e-08
+}                                                                                                                                                                                            {'loss_shape': 0.4924488961696625, 'loss_nucleus': 0.5333535075187683, 'loss_chromatin': 8.940696005765858e-08, 'loss_cytoplasm': 0.4707854986190796, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.4591059386730194, 'loss_nucleus': 0.5163520574569702, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.5465483069419861, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.33801400661468506, 'loss_nucleus': 0.3336123526096344, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.3177805244922638, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.6691479682922363, 'loss_nucleus': 1.1270145177841187, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.9827353954315186, 'loss_ratio': 5.215406062575312e-08}
+{'loss_shape': 0.5478949546813965, 'loss_nucleus': 0.6004922986030579, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.4572823941707611, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.9654777646064758, 'loss_nucleus': 1.0028358697891235, 'loss_chromatin': 8.195637946073475e-08, 'loss_cytoplasm': 0.8832778334617615, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.9330688118934631, 'loss_nucleus': 1.0847735404968262, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.9717326760292053, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.504780113697052, 'loss_nucleus': 0.9799334406852722, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 0.8678365349769592, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.38121503591537476, 'loss_nucleus': 0.40658509731292725, 'loss_chromatin': 9.685754065458241e-08, 'loss_cytoplasm': 0.3552843928337097, 'loss_ratio': 7.450580152834618e-09}
+shape acc: 0.7981900572776794
+nucleus acc: 0.7683258056640625
+chromatin acc: 1.0
+cytoplasm acc: 0.7570135593414307
+ratio acc: 1.0
+Average acc: 0.8647058606147766
+{'loss_shape': 0.5227819085121155, 'loss_nucleus': 0.6872602701187134, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.5445683598518372, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.30465978384017944, 'loss_nucleus': 0.6416928172111511, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.6089248061180115, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.37878021597862244, 'loss_nucleus': 0.5486268997192383, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.4465501308441162, 'loss_ratio': 5.215406062575312e-08}
+{'loss_shape': 0.21614190936088562, 'loss_nucleus': 0.4994657635688782, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.3331955671310425, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.6925724148750305, 'loss_nucleus': 0.8239660263061523, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.7586308717727661, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.40201425552368164, 'loss_nucleus': 0.7553380727767944, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.6838725209236145, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.896507740020752, 'loss_nucleus': 1.3120313882827759, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 1.2475886344909668, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 1.003448486328125, 'loss_nucleus': 1.0573852062225342, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 1.1395338773727417, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.9288380742073059, 'loss_nucleus': 0.9797354340553284, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.8379960060119629, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.852364182472229, 'loss_nucleus': 0.968632698059082, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 1.0005161762237549, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.5112419128417969, 'loss_nucleus': 0.8701138496398926, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.892179548740387, 'loss_ratio': 0.0}
+{'loss_shape': 0.6611921191215515, 'loss_nucleus': 0.820063054561615, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.802705705165863, 'loss_ratio': 3.725289943190546e-08}
+shape acc: 0.8226244449615479
+nucleus acc: 0.7877827882766724
+chromatin acc: 1.0
+cytoplasm acc: 0.7809954881668091
+ratio acc: 1.0
+Average acc: 0.8782805800437927
+{'loss_shape': 0.7025162577629089, 'loss_nucleus': 0.9187036156654358, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 0.7959996461868286, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.2546577751636505, 'loss_nucleus': 0.3344942629337311, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.22184252738952637, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.2899281084537506, 'loss_nucleus': 0.3224908709526062, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.24839699268341064, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.21036195755004883, 'loss_nucleus': 0.2281089574098587, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.23125378787517548, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.8365173935890198, 'loss_nucleus': 0.8790860772132874, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.9122711420059204, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.27086132764816284, 'loss_nucleus': 0.2605511248111725, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.27409493923187256, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.9268134832382202, 'loss_nucleus': 0.8366733193397522, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 0.9876840710639954, 'loss_ratio': 5.215406062575312e-08}
+{'loss_shape': 0.5527836084365845, 'loss_nucleus': 0.7160847783088684, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.7726873755455017, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.15218409895896912, 'loss_nucleus': 0.2564210295677185, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.27634313702583313, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.8344852924346924, 'loss_nucleus': 1.091483235359192, 'loss_chromatin': 3.725289943190546e-08, 'loss_cytoplasm': 1.1003681421279907, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.47055456042289734, 'loss_nucleus': 0.5635745525360107, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.4354172348976135, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.8879702091217041, 'loss_nucleus': 1.3253698348999023, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 1.2727296352386475, 'loss_ratio': 1.4901160305669237e-08}
+shape acc: 0.8280543088912964
+nucleus acc: 0.7941176295280457
+chromatin acc: 1.0
+cytoplasm acc: 0.7850678563117981
+ratio acc: 1.0
+Average acc: 0.881447970867157
+{'loss_shape': 0.7709634304046631, 'loss_nucleus': 0.8788283467292786, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.7431020736694336, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.5110342502593994, 'loss_nucleus': 0.4859151244163513, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.5488911867141724, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.33195436000823975, 'loss_nucleus': 0.4566349983215332, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 0.4392239451408386, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.923557460308075, 'loss_nucleus': 1.035352349281311, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.9054152965545654, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.3050673007965088, 'loss_nucleus': 0.37261509895324707, 'loss_chromatin': 8.195637946073475e-08, 'loss_cytoplasm': 0.3893665671348572, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.26570624113082886, 'loss_nucleus': 0.5221412777900696, 'loss_chromatin': 3.725289943190546e-08, 'loss_cytoplasm': 0.49157506227493286, 'loss_ratio': 5.215406062575312e-08}
+{'loss_shape': 0.5032116174697876, 'loss_nucleus': 0.925950288772583, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.8701205253601074, 'loss_ratio': 5.215406062575312e-08}
+{'loss_shape': 0.5218729972839355, 'loss_nucleus': 0.49870237708091736, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.4927316904067993, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.5871713161468506, 'loss_nucleus': 0.6211812496185303, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 0.49960726499557495, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.4537878632545471, 'loss_nucleus': 0.7221996188163757, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.7310993075370789, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.34372809529304504, 'loss_nucleus': 0.5129122138023376, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.5247288942337036, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.5065754652023315, 'loss_nucleus': 0.5077707767486572, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.5456458926200867, 'loss_ratio': 2.2351740014414645e-08}
+shape acc: 0.8257918357849121
+nucleus acc: 0.7927601933479309
+chromatin acc: 1.0
+cytoplasm acc: 0.7882353067398071
+ratio acc: 1.0
+Average acc: 0.8813574910163879
+{'loss_shape': 0.5484260320663452, 'loss_nucleus': 0.7750357985496521, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.721442699432373, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.24621403217315674, 'loss_nucleus': 0.49298396706581116, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.36844876408576965, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.7145065069198608, 'loss_nucleus': 1.0529454946517944, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.9657978415489197, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.4380890130996704, 'loss_nucleus': 0.555976152420044, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.4788733720779419, 'loss_ratio': 5.215406062575312e-08}
+{'loss_shape': 0.4370764195919037, 'loss_nucleus': 0.5607501268386841, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.4600556790828705, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.6854299902915955, 'loss_nucleus': 0.7006278038024902, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.7318747639656067, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.46699172258377075, 'loss_nucleus': 0.46012941002845764, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.45435792207717896, 'loss_ratio': 2.2351740014414645e-08
+}                                                                                                                                                                                            {'loss_shape': 1.1039760112762451, 'loss_nucleus': 1.3387855291366577, 'loss_chromatin': 3.725289943190546e-08, 'loss_cytoplasm': 1.0926295518875122, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.6030897498130798, 'loss_nucleus': 0.8851289749145508, 'loss_chromatin': 8.940696005765858e-08, 'loss_cytoplasm': 0.8043344020843506, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.20093858242034912, 'loss_nucleus': 0.27584314346313477, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.2904007136821747, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.2271493524312973, 'loss_nucleus': 0.2989906966686249, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 0.2137748897075653, 'loss_ratio': 5.9604641222676946e-08}
+{'loss_shape': 0.45129427313804626, 'loss_nucleus': 0.40845707058906555, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.42199164628982544, 'loss_ratio': 2.9802320611338473e-08
+}                                                                                                                                                                                            shape acc: 0.8244343996047974
+nucleus acc: 0.7805429697036743
+chromatin acc: 1.0
+cytoplasm acc: 0.7778280377388
+ratio acc: 1.0
+Average acc: 0.8765611052513123
+{'loss_shape': 0.20856526494026184, 'loss_nucleus': 0.233991339802742, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 0.22836318612098694, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.7454137206077576, 'loss_nucleus': 1.1881269216537476, 'loss_chromatin': 3.725289943190546e-08, 'loss_cytoplasm': 1.117095708847046, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.521419882774353, 'loss_nucleus': 0.7809874415397644, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.6533109545707703, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.5897783041000366, 'loss_nucleus': 0.6874182224273682, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 0.6094532608985901, 'loss_ratio': 5.215406062575312e-08}
+{'loss_shape': 0.4767395853996277, 'loss_nucleus': 0.7216278314590454, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.6520872712135315, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.33687278628349304, 'loss_nucleus': 0.4289299547672272, 'loss_chromatin': 2.2351740014414645e-08, 'loss_cytoplasm': 0.4116726219654083, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.30758583545684814, 'loss_nucleus': 0.48487797379493713, 'loss_chromatin': 2.9802320611338473e-08, 'loss_cytoplasm': 0.47190576791763306, 'loss_ratio': 1.4901160305669237e-0
+8}                                                                                                                                                                                           {'loss_shape': 0.24961423873901367, 'loss_nucleus': 0.33985570073127747, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.2665494680404663, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.32289713621139526, 'loss_nucleus': 0.5609741806983948, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.3643101751804352, 'loss_ratio': 0.0}
+{'loss_shape': 0.30160096287727356, 'loss_nucleus': 0.2869671881198883, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.14212335646152496, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.829039454460144, 'loss_nucleus': 0.9131773710250854, 'loss_chromatin': 3.725289943190546e-08, 'loss_cytoplasm': 0.8891504406929016, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.4588199555873871, 'loss_nucleus': 0.6034643650054932, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 0.43174904584884644, 'loss_ratio': 7.450580152834618e-09}
+shape acc: 0.8217194676399231
+nucleus acc: 0.7832579016685486
+chromatin acc: 1.0
+cytoplasm acc: 0.770588219165802
+ratio acc: 1.0
+Average acc: 0.8751131296157837
+{'loss_shape': 0.9887182116508484, 'loss_nucleus': 0.9771803021430969, 'loss_chromatin': 3.725289943190546e-08, 'loss_cytoplasm': 1.3218920230865479, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.7821494936943054, 'loss_nucleus': 0.7442842721939087, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.7473897337913513, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.3244836926460266, 'loss_nucleus': 0.5743867754936218, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.46175816655158997, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.17473232746124268, 'loss_nucleus': 0.28254422545433044, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 0.3140071928501129, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.5561655759811401, 'loss_nucleus': 0.751573920249939, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 0.6246153116226196, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.42408618330955505, 'loss_nucleus': 0.561246931552887, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.4485902786254883, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.22633472084999084, 'loss_nucleus': 0.30086076259613037, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 0.3805038034915924, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.5316324234008789, 'loss_nucleus': 0.5325724482536316, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.4655495882034302, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.14757873117923737, 'loss_nucleus': 0.352605938911438, 'loss_chromatin': 8.195637946073475e-08, 'loss_cytoplasm': 0.3815063238143921, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.27716222405433655, 'loss_nucleus': 0.44312620162963867, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 0.5133793950080872, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.19823946058750153, 'loss_nucleus': 0.5536211729049683, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.5768892765045166, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.6694284081459045, 'loss_nucleus': 1.1498405933380127, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 1.2338850498199463, 'loss_ratio': 4.470348002882929e-08}
+shape acc: 0.8294117450714111
+nucleus acc: 0.7977375388145447
+chromatin acc: 1.0
+cytoplasm acc: 0.7977375388145447
+ratio acc: 1.0
+Average acc: 0.8849773406982422
+{'loss_shape': 0.34389016032218933, 'loss_nucleus': 0.48232629895210266, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.43353715538978577, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.15311510860919952, 'loss_nucleus': 0.4929965138435364, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.4044848084449768, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.4629206657409668, 'loss_nucleus': 0.5288124084472656, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.5844973921775818, 'loss_ratio': 0.0}
+{'loss_shape': 0.7698845863342285, 'loss_nucleus': 1.056739330291748, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 1.1507625579833984, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.5783706903457642, 'loss_nucleus': 0.8362259864807129, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.5434064865112305, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.2008114904165268, 'loss_nucleus': 0.29195839166641235, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.2506672143936157, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.718914270401001, 'loss_nucleus': 0.5924335718154907, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.6199041604995728, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.34482887387275696, 'loss_nucleus': 0.6044228672981262, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.5272719860076904, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.15031293034553528, 'loss_nucleus': 0.3842489421367645, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.3470951318740845, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.33270323276519775, 'loss_nucleus': 0.46008914709091187, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 0.37872743606567383, 'loss_ratio': 2.2351740014414645e-08
+}                                                                                                                                                                                            {'loss_shape': 0.8601469993591309, 'loss_nucleus': 0.9372097849845886, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.9292718172073364, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.11236082017421722, 'loss_nucleus': 0.20351487398147583, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 0.17369994521141052, 'loss_ratio': 1.4901160305669237e-08
+}                                                                                                                                                                                            shape acc: 0.8248868584632874
+nucleus acc: 0.804072380065918
+chromatin acc: 1.0
+cytoplasm acc: 0.7963801026344299
+ratio acc: 1.0
+Average acc: 0.885067880153656
+{'loss_shape': 0.8179000616073608, 'loss_nucleus': 0.892886221408844, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.898461103439331, 'loss_ratio': 5.215406062575312e-08}
+{'loss_shape': 0.31985095143318176, 'loss_nucleus': 0.3548496961593628, 'loss_chromatin': 2.2351740014414645e-08, 'loss_cytoplasm': 0.39420628547668457, 'loss_ratio': 2.9802320611338473e-08
+}                                                                                                                                                                                            {'loss_shape': 0.18321745097637177, 'loss_nucleus': 0.3195742070674896, 'loss_chromatin': 3.725289943190546e-08, 'loss_cytoplasm': 0.31160008907318115, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.17358455061912537, 'loss_nucleus': 0.4158163368701935, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.37317973375320435, 'loss_ratio': 5.215406062575312e-08}
+{'loss_shape': 0.188971146941185, 'loss_nucleus': 0.2538219690322876, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.22188568115234375, 'loss_ratio': 0.0}
+{'loss_shape': 0.6035990715026855, 'loss_nucleus': 0.6364092826843262, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.5843600034713745, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.44993749260902405, 'loss_nucleus': 0.49270302057266235, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.4181368052959442, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.21901819109916687, 'loss_nucleus': 0.3742954432964325, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.29639458656311035, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.5628966093063354, 'loss_nucleus': 0.5610535740852356, 'loss_chromatin': 3.725289943190546e-08, 'loss_cytoplasm': 0.7054173946380615, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.2746913731098175, 'loss_nucleus': 0.4000300467014313, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.3905233144760132, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.5646211504936218, 'loss_nucleus': 0.5039816498756409, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.5451864004135132, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.34495094418525696, 'loss_nucleus': 0.4737699031829834, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.4735438823699951, 'loss_ratio': 4.470348002882929e-08}
+shape acc: 0.8303167223930359
+nucleus acc: 0.7904977202415466
+chromatin acc: 1.0
+cytoplasm acc: 0.7855203747749329
+ratio acc: 1.0
+Average acc: 0.8812670111656189
+{'loss_shape': 0.45981675386428833, 'loss_nucleus': 0.7767812609672546, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 0.6081223487854004, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.3046720027923584, 'loss_nucleus': 0.3742399513721466, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.3651675879955292, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.17649608850479126, 'loss_nucleus': 0.18546922504901886, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.27683892846107483, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.3109656572341919, 'loss_nucleus': 0.4469425678253174, 'loss_chromatin': 9.685754065458241e-08, 'loss_cytoplasm': 0.5447709560394287, 'loss_ratio': 6.70552182668871e-08}
+{'loss_shape': 0.3892308473587036, 'loss_nucleus': 0.48445796966552734, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.41510072350502014, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.19584882259368896, 'loss_nucleus': 0.26014244556427, 'loss_chromatin': 8.195637946073475e-08, 'loss_cytoplasm': 0.16530221700668335, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.6875754594802856, 'loss_nucleus': 0.8648959398269653, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.8134826421737671, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.19653472304344177, 'loss_nucleus': 0.47572436928749084, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.3566136956214905, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.2687169313430786, 'loss_nucleus': 0.4003653824329376, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.41433635354042053, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.4323817193508148, 'loss_nucleus': 0.4642389118671417, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.4280889928340912, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.3433311879634857, 'loss_nucleus': 0.35643136501312256, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.38105228543281555, 'loss_ratio': 0.0}
+{'loss_shape': 0.18844009935855865, 'loss_nucleus': 0.2759905159473419, 'loss_chromatin': 8.195637946073475e-08, 'loss_cytoplasm': 0.16086341440677643, 'loss_ratio': 3.725289943190546e-08}
+shape acc: 0.8217194676399231
+nucleus acc: 0.7828054428100586
+chromatin acc: 1.0
+cytoplasm acc: 0.7877827882766724
+ratio acc: 1.0
+Average acc: 0.8784615397453308
+{'loss_shape': 0.15859746932983398, 'loss_nucleus': 0.20228998363018036, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.16332684457302094, 'loss_ratio': 5.215406062575312e-08}
+{'loss_shape': 0.3771711587905884, 'loss_nucleus': 0.5699957609176636, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 0.34175628423690796, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.37220627069473267, 'loss_nucleus': 0.42567452788352966, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.5199987292289734, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.5528096556663513, 'loss_nucleus': 0.8173350691795349, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.7159959077835083, 'loss_ratio': 0.0}
+{'loss_shape': 0.31190064549446106, 'loss_nucleus': 0.37642785906791687, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.39298489689826965, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.4340668022632599, 'loss_nucleus': 0.6114233136177063, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.48949316143989563, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.23311248421669006, 'loss_nucleus': 0.2562732398509979, 'loss_chromatin': 2.9802320611338473e-08, 'loss_cytoplasm': 0.2546209990978241, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.21370428800582886, 'loss_nucleus': 0.36877819895744324, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.2918933928012848, 'loss_ratio': 2.2351740014414645e-08
+}                                                                                                                                                                                            {'loss_shape': 0.8902959823608398, 'loss_nucleus': 1.0339231491088867, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 1.0239205360412598, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.5179407596588135, 'loss_nucleus': 0.7109347581863403, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.5285272598266602, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.4720233976840973, 'loss_nucleus': 0.7119189500808716, 'loss_chromatin': 3.725289943190546e-08, 'loss_cytoplasm': 0.5389529466629028, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.1691567301750183, 'loss_nucleus': 0.25305914878845215, 'loss_chromatin': 8.195637946073475e-08, 'loss_cytoplasm': 0.3240956962108612, 'loss_ratio': 3.725289943190546e-08}
+shape acc: 0.8312216997146606
+nucleus acc: 0.7927601933479309
+chromatin acc: 1.0
+cytoplasm acc: 0.7900452613830566
+ratio acc: 1.0
+Average acc: 0.8828054666519165
+{'loss_shape': 0.3116517961025238, 'loss_nucleus': 0.49633291363716125, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.4107062816619873, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.34267595410346985, 'loss_nucleus': 0.32756906747817993, 'loss_chromatin': 8.195637946073475e-08, 'loss_cytoplasm': 0.270498126745224, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.2643726170063019, 'loss_nucleus': 0.35843607783317566, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.2675411105155945, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.21179614961147308, 'loss_nucleus': 0.3224976360797882, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.286344438791275, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.2873364984989166, 'loss_nucleus': 0.5904116034507751, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.6730679273605347, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.37901973724365234, 'loss_nucleus': 0.46375855803489685, 'loss_chromatin': 8.940696005765858e-08, 'loss_cytoplasm': 0.6453195810317993, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.49083375930786133, 'loss_nucleus': 0.6075191497802734, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.5103497505187988, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.6854924559593201, 'loss_nucleus': 0.6400943994522095, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.6130503416061401, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.6040816903114319, 'loss_nucleus': 0.7448015809059143, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.654873788356781, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.16171935200691223, 'loss_nucleus': 0.39726722240448, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.49277356266975403, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.3589770495891571, 'loss_nucleus': 0.5772322416305542, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.43819618225097656, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.3473682403564453, 'loss_nucleus': 0.5621693730354309, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.6997628211975098, 'loss_ratio': 0.0}
+shape acc: 0.8280543088912964
+nucleus acc: 0.7981900572776794
+chromatin acc: 1.0
+cytoplasm acc: 0.7932126522064209
+ratio acc: 1.0
+Average acc: 0.8838914036750793
+{'loss_shape': 0.49005961418151855, 'loss_nucleus': 0.47114384174346924, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.38941729068756104, 'loss_ratio': 5.215406062575312e-08}
+{'loss_shape': 0.44095873832702637, 'loss_nucleus': 0.42754659056663513, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.5256384015083313, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.37554386258125305, 'loss_nucleus': 0.5282889604568481, 'loss_chromatin': 3.725289943190546e-08, 'loss_cytoplasm': 0.41918137669563293, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.2899329364299774, 'loss_nucleus': 0.40303197503089905, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.47245147824287415, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.4235098361968994, 'loss_nucleus': 0.5033771991729736, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.5203597545623779, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.27206721901893616, 'loss_nucleus': 0.5360488295555115, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.4078550636768341, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.6857362389564514, 'loss_nucleus': 0.7344956994056702, 'loss_chromatin': 8.940696005765858e-08, 'loss_cytoplasm': 0.8105300664901733, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.2209327518939972, 'loss_nucleus': 0.2954787313938141, 'loss_chromatin': 2.9802320611338473e-08, 'loss_cytoplasm': 0.2811676859855652, 'loss_ratio': 5.215406062575312e-08}
+{'loss_shape': 0.39383894205093384, 'loss_nucleus': 0.47864484786987305, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.5162802338600159, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.2839893400669098, 'loss_nucleus': 0.4653196334838867, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.35148483514785767, 'loss_ratio': 5.9604641222676946e-08}
+{'loss_shape': 0.48248863220214844, 'loss_nucleus': 0.3728642165660858, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.43966513872146606, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.1959836781024933, 'loss_nucleus': 0.22727997601032257, 'loss_chromatin': 3.725289943190546e-08, 'loss_cytoplasm': 0.13997577130794525, 'loss_ratio': 2.9802320611338473e-08}
+shape acc: 0.8289592862129211
+nucleus acc: 0.8013574481010437
+chromatin acc: 1.0
+cytoplasm acc: 0.7891402840614319
+ratio acc: 1.0
+Average acc: 0.8838914036750793
+{'loss_shape': 0.6872365474700928, 'loss_nucleus': 0.8897566795349121, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.8592739105224609, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.3881436884403229, 'loss_nucleus': 0.3610019385814667, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 0.4200593829154968, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.5092547535896301, 'loss_nucleus': 0.4267624020576477, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.36196398735046387, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.14004936814308167, 'loss_nucleus': 0.3149504065513611, 'loss_chromatin': 2.9802320611338473e-08, 'loss_cytoplasm': 0.2265511304140091, 'loss_ratio': 0.0}
+{'loss_shape': 0.3061923384666443, 'loss_nucleus': 0.7956967353820801, 'loss_chromatin': 8.195637946073475e-08, 'loss_cytoplasm': 0.6730086803436279, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.27570855617523193, 'loss_nucleus': 0.5164709091186523, 'loss_chromatin': 8.195637946073475e-08, 'loss_cytoplasm': 0.44972026348114014, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.5135348439216614, 'loss_nucleus': 0.7065840363502502, 'loss_chromatin': 8.195637946073475e-08, 'loss_cytoplasm': 0.6185702085494995, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.4376504719257355, 'loss_nucleus': 0.4619104564189911, 'loss_chromatin': 2.9802320611338473e-08, 'loss_cytoplasm': 0.5583693385124207, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.19587740302085876, 'loss_nucleus': 0.27265486121177673, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.21479611098766327, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.2887469232082367, 'loss_nucleus': 0.4255087971687317, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.5167044401168823, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.3012714684009552, 'loss_nucleus': 0.4198285937309265, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.46521392464637756, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.41893649101257324, 'loss_nucleus': 0.7120289206504822, 'loss_chromatin': 2.9802320611338473e-08, 'loss_cytoplasm': 0.4903281629085541, 'loss_ratio': 2.9802320611338473e-08}
+shape acc: 0.8294117450714111
+nucleus acc: 0.7932126522064209
+chromatin acc: 1.0
+cytoplasm acc: 0.7819004654884338
+ratio acc: 1.0
+Average acc: 0.8809049725532532
+{'loss_shape': 0.08696790784597397, 'loss_nucleus': 0.2439100295305252, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.19437608122825623, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.47981277108192444, 'loss_nucleus': 0.5842863321304321, 'loss_chromatin': 2.9802320611338473e-08, 'loss_cytoplasm': 0.4244646430015564, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.4505545496940613, 'loss_nucleus': 0.3604709804058075, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.2506851851940155, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.19031208753585815, 'loss_nucleus': 0.1898079812526703, 'loss_chromatin': 3.725289943190546e-08, 'loss_cytoplasm': 0.19312618672847748, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.23307719826698303, 'loss_nucleus': 0.34608420729637146, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.20528720319271088, 'loss_ratio': 0.0}
+{'loss_shape': 0.22962358593940735, 'loss_nucleus': 0.25872910022735596, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.20195946097373962, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.4871128797531128, 'loss_nucleus': 0.5507010817527771, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.5328139066696167, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.24421606957912445, 'loss_nucleus': 0.4097157418727875, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.20589163899421692, 'loss_ratio': 2.2351740014414645e-08
+}                                                                                                                                                                                            {'loss_shape': 1.0076900720596313, 'loss_nucleus': 1.1211562156677246, 'loss_chromatin': 2.9802320611338473e-08, 'loss_cytoplasm': 1.1311675310134888, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.23099666833877563, 'loss_nucleus': 0.27699705958366394, 'loss_chromatin': 3.725289943190546e-08, 'loss_cytoplasm': 0.23969142138957977, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.237007737159729, 'loss_nucleus': 0.37471503019332886, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 0.2762605547904968, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.1439749151468277, 'loss_nucleus': 0.27322468161582947, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 0.2156227082014084, 'loss_ratio': 6.70552182668871e-08}
+shape acc: 0.8208144903182983
+nucleus acc: 0.7850678563117981
+chromatin acc: 1.0
+cytoplasm acc: 0.7959275841712952
+ratio acc: 1.0
+Average acc: 0.8803619742393494
+{'loss_shape': 0.47610390186309814, 'loss_nucleus': 0.6727331280708313, 'loss_chromatin': 8.195637946073475e-08, 'loss_cytoplasm': 0.613138735294342, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.4752008616924286, 'loss_nucleus': 0.6237918734550476, 'loss_chromatin': 3.725289943190546e-08, 'loss_cytoplasm': 0.6152781248092651, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.14482681453227997, 'loss_nucleus': 0.1503193974494934, 'loss_chromatin': 2.9802320611338473e-08, 'loss_cytoplasm': 0.19978785514831543, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.2866835594177246, 'loss_nucleus': 0.30558475852012634, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.4305857717990875, 'loss_ratio': 6.70552182668871e-08}
+{'loss_shape': 0.32292526960372925, 'loss_nucleus': 0.323121577501297, 'loss_chromatin': 8.195637946073475e-08, 'loss_cytoplasm': 0.3245917856693268, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.07848700135946274, 'loss_nucleus': 0.14764799177646637, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.11347606778144836, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.11451347172260284, 'loss_nucleus': 0.26208874583244324, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.10494844615459442, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.632046103477478, 'loss_nucleus': 0.9021241068840027, 'loss_chromatin': 3.725289943190546e-08, 'loss_cytoplasm': 0.39220303297042847, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.16734705865383148, 'loss_nucleus': 0.22375217080116272, 'loss_chromatin': 2.9802320611338473e-08, 'loss_cytoplasm': 0.24821354448795319, 'loss_ratio': 2.2351740014414645e-0
+8}                                                                                                                                                                                           {'loss_shape': 0.2722961902618408, 'loss_nucleus': 0.524486243724823, 'loss_chromatin': 8.940696005765858e-08, 'loss_cytoplasm': 0.41324132680892944, 'loss_ratio': 5.215406062575312e-08}
+{'loss_shape': 0.25090479850769043, 'loss_nucleus': 0.3670044243335724, 'loss_chromatin': 8.940696005765858e-08, 'loss_cytoplasm': 0.3512412905693054, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.4497705101966858, 'loss_nucleus': 0.7208027839660645, 'loss_chromatin': 3.725289943190546e-08, 'loss_cytoplasm': 0.45950791239738464, 'loss_ratio': 1.4901160305669237e-08}
+shape acc: 0.8226244449615479
+nucleus acc: 0.7968325614929199
+chromatin acc: 1.0
+cytoplasm acc: 0.7864253520965576
+ratio acc: 1.0
+Average acc: 0.8811764717102051
+{'loss_shape': 0.27124762535095215, 'loss_nucleus': 0.35901543498039246, 'loss_chromatin': 7.450579886381092e-08, 'loss_cytoplasm': 0.2241668701171875, 'loss_ratio': 1.4901160305669237e-08}
+{'loss_shape': 0.15310831367969513, 'loss_nucleus': 0.2570711374282837, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.19795408844947815, 'loss_ratio': 2.9802320611338473e-08}
+{'loss_shape': 0.19097380340099335, 'loss_nucleus': 0.1959833949804306, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.11503605544567108, 'loss_ratio': 1.4901160305669237e-08
+}                                                                                                                                                                                            {'loss_shape': 0.1501735895872116, 'loss_nucleus': 0.22735704481601715, 'loss_chromatin': 6.70552182668871e-08, 'loss_cytoplasm': 0.17598003149032593, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.277380108833313, 'loss_nucleus': 0.270609587430954, 'loss_chromatin': 3.725289943190546e-08, 'loss_cytoplasm': 0.32785913348197937, 'loss_ratio': 7.450580152834618e-09}
+{'loss_shape': 0.11471041291952133, 'loss_nucleus': 0.10831797122955322, 'loss_chromatin': 1.0430812125150624e-07, 'loss_cytoplasm': 0.08346641808748245, 'loss_ratio': 2.2351740014414645e-0
+8}                                                                                                                                                                                           {'loss_shape': 0.30941328406333923, 'loss_nucleus': 0.37806010246276855, 'loss_chromatin': 8.195637946073475e-08, 'loss_cytoplasm': 0.2734076976776123, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.14726917445659637, 'loss_nucleus': 0.3301553428173065, 'loss_chromatin': 8.195637946073475e-08, 'loss_cytoplasm': 0.21545276045799255, 'loss_ratio': 3.725289943190546e-08}
+{'loss_shape': 0.3497462272644043, 'loss_nucleus': 0.3258229196071625, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.23459066450595856, 'loss_ratio': 2.2351740014414645e-08}
+{'loss_shape': 0.3043704926967621, 'loss_nucleus': 0.39463990926742554, 'loss_chromatin': 5.215406062575312e-08, 'loss_cytoplasm': 0.4542243480682373, 'loss_ratio': 4.470348002882929e-08}
+{'loss_shape': 0.1388246715068817, 'loss_nucleus': 0.29439932107925415, 'loss_chromatin': 4.470348002882929e-08, 'loss_cytoplasm': 0.3065580129623413, 'loss_ratio': 5.215406062575312e-08}
+{'loss_shape': 0.2140415757894516, 'loss_nucleus': 0.3872890770435333, 'loss_chromatin': 5.9604641222676946e-08, 'loss_cytoplasm': 0.3977559506893158, 'loss_ratio': 7.450580152834618e-09}
+shape acc: 0.8289592862129211
+nucleus acc: 0.7981900572776794
+chromatin acc: 1.0
+cytoplasm acc: 0.7927601933479309
+ratio acc: 1.0
+Average acc: 0.8839818835258484
+Best acc: 0.885067880153656 at epoch 10

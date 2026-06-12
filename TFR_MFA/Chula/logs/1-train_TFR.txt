@@ -1,0 +1,102 @@
+Step 0: loss=0.1799, mse=0.0032, sim=0.1767
+Step 0: loss=0.1763, mse=0.0031, sim=0.1732
+Step 0: loss=0.1780, mse=0.0031, sim=0.1749
+Step 0: loss=0.1709, mse=0.0031, sim=0.1679
+Step 0: loss=0.1680, mse=0.0030, sim=0.1649
+Step 100: loss=0.0285, mse=0.0018, sim=0.0267
+Step 100: loss=0.0088, mse=0.0017, sim=0.0071
+Step 100: loss=0.0093, mse=0.0019, sim=0.0074
+Step 100: loss=0.0178, mse=0.0017, sim=0.0161
+Step 100: loss=0.0092, mse=0.0017, sim=0.0075
+Step 200: loss=0.0281, mse=0.0014, sim=0.0267
+Step 200: loss=0.0074, mse=0.0015, sim=0.0059
+Step 200: loss=0.0078, mse=0.0016, sim=0.0062
+Step 200: loss=0.0174, mse=0.0014, sim=0.0160
+Step 200: loss=0.0079, mse=0.0015, sim=0.0064
+Step 300: loss=0.0279, mse=0.0012, sim=0.0267
+Step 300: loss=0.0068, mse=0.0014, sim=0.0054
+Step 300: loss=0.0073, mse=0.0014, sim=0.0059
+Step 300: loss=0.0172, mse=0.0012, sim=0.0160
+Step 300: loss=0.0073, mse=0.0014, sim=0.0060
+Step 400: loss=0.0278, mse=0.0011, sim=0.0267
+Step 400: loss=0.0069, mse=0.0013, sim=0.0056
+Step 400: loss=0.0072, mse=0.0013, sim=0.0058
+Step 400: loss=0.0175, mse=0.0011, sim=0.0164
+Step 400: loss=0.0072, mse=0.0014, sim=0.0059
+Step 500: loss=0.0277, mse=0.0010, sim=0.0267
+Step 500: loss=0.0063, mse=0.0013, sim=0.0050
+Step 500: loss=0.0069, mse=0.0013, sim=0.0056
+Step 500: loss=0.0171, mse=0.0011, sim=0.0160
+Step 500: loss=0.0069, mse=0.0013, sim=0.0056
+Step 600: loss=0.0276, mse=0.0009, sim=0.0267
+Step 600: loss=0.0061, mse=0.0013, sim=0.0049
+Step 600: loss=0.0068, mse=0.0012, sim=0.0056
+Step 600: loss=0.0170, mse=0.0010, sim=0.0160
+Step 600: loss=0.0068, mse=0.0013, sim=0.0055
+Step 700: loss=0.0275, mse=0.0009, sim=0.0267
+Step 700: loss=0.0060, mse=0.0012, sim=0.0048
+Step 700: loss=0.0067, mse=0.0012, sim=0.0056
+Step 700: loss=0.0170, mse=0.0010, sim=0.0160
+Step 700: loss=0.0067, mse=0.0012, sim=0.0054
+Step 800: loss=0.0275, mse=0.0008, sim=0.0267
+Step 800: loss=0.0059, mse=0.0012, sim=0.0048
+Step 800: loss=0.0067, mse=0.0011, sim=0.0056
+Step 800: loss=0.0169, mse=0.0009, sim=0.0160
+Step 800: loss=0.0066, mse=0.0012, sim=0.0054
+Step 900: loss=0.0274, mse=0.0007, sim=0.0267
+Step 900: loss=0.0059, mse=0.0011, sim=0.0047
+Step 900: loss=0.0066, mse=0.0011, sim=0.0056
+Step 900: loss=0.0169, mse=0.0009, sim=0.0160
+Step 900: loss=0.0065, mse=0.0011, sim=0.0054
+--------------------------------------------------
+ratio
+before
+tensor(0.7513)
+after
+tensor(0.5178, grad_fn=<MeanBackward0>)
+x and y similarity:  tensor(0.8650, grad_fn=<MeanBackward0>)
+nucleus
+before
+tensor(0.7056)
+after
+tensor(0.4359, grad_fn=<MeanBackward0>)
+x and y similarity:  tensor(0.7709, grad_fn=<MeanBackward0>)
+shape
+before
+tensor(0.6257)
+after
+tensor(0.3899, grad_fn=<MeanBackward0>)
+x and y similarity:  tensor(0.7611, grad_fn=<MeanBackward0>)
+chromatin
+before
+tensor(0.7283)
+after
+tensor(0.4776, grad_fn=<MeanBackward0>)
+x and y similarity:  tensor(0.8481, grad_fn=<MeanBackward0>)
+cytoplasm
+before
+tensor(0.7506)
+after
+tensor(0.4646, grad_fn=<MeanBackward0>)
+x and y similarity:  tensor(0.7727, grad_fn=<MeanBackward0>)
+--------------------------------------------------
+pool ratio_des_pool and nucleus_des_pool similarity
+0.33305594
+pool ratio_des_pool and shape_des_pool similarity
+0.3164487
+pool ratio_des_pool and chromatin_des_pool similarity
+0.29205444
+pool ratio_des_pool and cytoplasm_des_pool similarity
+0.33779073
+pool nucleus_des_pool and shape_des_pool similarity
+0.36757523
+pool nucleus_des_pool and chromatin_des_pool similarity
+0.3710393
+pool nucleus_des_pool and cytoplasm_des_pool similarity
+0.41394427
+pool shape_des_pool and chromatin_des_pool similarity
+0.33410144
+pool shape_des_pool and cytoplasm_des_pool similarity
+0.36167505
+pool chromatin_des_pool and cytoplasm_des_pool similarity
+0.38835424
