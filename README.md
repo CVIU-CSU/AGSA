@@ -62,7 +62,7 @@ data
 |  |  |——class_46
 ```
 
-### Training and Evaluation
+### Training
 
 To train the AGSA or AGSA-distilled model on the BCFC-329k dataset, you can use commands like this:
 ```
